@@ -1,0 +1,3 @@
+https://github.com/saucelabs/my-demo-app-rn/releases
+
+https://github.com/appium/android-apidemos/releases
